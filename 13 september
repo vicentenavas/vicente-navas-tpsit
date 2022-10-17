@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+<link rel="stylesheet" href="style.css">
+<style>
+    h1{
+        color: rgb(128, 10, 196);
+    }
+</style>
+</head>
+<body>
+<h1>prova 1</h1>
+<button class="boton1" id="bottone">Click</button>
+<button class="boton2" id="bottone">Click this too </span></button>
+<p class="mensaje">haz clickeado veces <span>0</span></p>
+
+
+
+
+    <script src="prova.js"></script>
+</body>
+</html>
